@@ -1,0 +1,31 @@
+package uz.pdp;
+
+public interface Constants {
+    String REGISTRATION = "1. REGISTRATION";
+    String LOGIN = "2. LOG_IN";
+    String PRODUCTS = "3. PRODUCTS";
+    String EXIT = "4. EXIT";
+    String BACK = "0. BACK";
+    String USER = "USER";
+    String ADMIN = "ADMIN";
+    String CATEGORY_AND_PRODUCT = "1. CATEGORY_AND_PRODUCT";
+
+    String SEE_ORDERS_LIST = "2.SEE_ORDERS_LIST";
+
+    String ADD_CATEGORY = "1.ADD_CATEGORY";
+    String LIST_CATEGORY = "2.LIST_CATEGORY";
+    String DETETE_CATEGORY = "3.DELETE_CATEGORY";
+    String KATIGORI_PRODUCTS = "1.KATIGORI_PRODUCTS";
+    String ALL_PRODUCT = "2.ALL_PRODUCT";
+    String BASKET = "3. BASKET";
+    String SITTING_PROFEL="4.SITTING_PROFEL";
+    String CATEGORY = " 1.CATEGORY";
+
+    String ADD_PRODUCT = "1.ADD_PRODUCT";
+    String DELETE_PRODUCT = "2.DELETE_PRODUCT";
+    String SHOW_PRODUCT_LIST = "3.SHOW_PRODUCT_LIST";
+
+    String ADD_PRODUCT_BASKET = "1.ADD_PRODUCT_BASKET ";
+    String LIST_BASKET = "2.LIST_BASKET";
+
+}
